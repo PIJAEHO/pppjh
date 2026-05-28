@@ -1,0 +1,7 @@
+flask
+requests
+urllib3
+openpyxl
+beautifulsoup4
+lxml
+gunicorn
